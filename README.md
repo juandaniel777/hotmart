@@ -1,0 +1,2 @@
+# hotmart
+Cart abandonment event.
